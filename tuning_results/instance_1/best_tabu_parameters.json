@@ -1,0 +1,6 @@
+{
+    "tabu_tenure": 10,
+    "max_iterations": 100,
+    "max_iterations_no_improvement": 50,
+    "num_neighbors": 10
+}

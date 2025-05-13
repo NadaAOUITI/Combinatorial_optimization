@@ -1,0 +1,23 @@
+23-4-25
+Requirements : 
+Algo glouton , méthode de descente (R.S , recherche taboue, AG sélection et tout)
+Comparaison entre les heuristiques (Gap (cout), nombre des solutions optimales (LB) , temps d'exécution , par rapport les classes des instances)
+Une solution => méthodes constructives).
+The teacher said that we have classes and after 10 instances we switch the mold and we have six classes . 
+
+Dans le contexte de l’ordonnancement (scheduling), une classe peut désigner un type de problème ou type d’instance.
+
+Par exemple, une classe pourrait être :
+
+un groupe d’instances où les jobs sont courts,
+
+un groupe avec beaucoup de conflits de moules,
+
+un autre avec très peu de machines,
+
+etc.
+
+Donc dire qu’il y a six classes, c’est comme dire qu’on a six familles de problèmes différents.
+Cest a dire on peut dire qu'on a pour une classe les meuilleurs sont l'heuristique whatever with la métaheuristique whatever and on a 
+pour la classe suivante blabla c'est ça ? 
+I can't go through every class 6 classes so can't I automate it like heuristics per class then given to metaheursticzs"

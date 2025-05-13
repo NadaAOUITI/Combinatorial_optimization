@@ -1,0 +1,731 @@
+[
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 10,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 20,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 100,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 500,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 50,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 100,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 10
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 20
+        },
+        "makespan": 1050
+    },
+    {
+        "params": {
+            "tabu_tenure": 50,
+            "max_iterations": 1000,
+            "max_iterations_no_improvement": 200,
+            "num_neighbors": 50
+        },
+        "makespan": 1050
+    }
+]

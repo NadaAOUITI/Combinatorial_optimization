@@ -1,0 +1,6 @@
+{
+    "initial_temp": 500.0,
+    "cooling_rate": 0.9,
+    "max_iterations": 500.0,
+    "min_temp": 5.0
+}
